@@ -2,7 +2,7 @@ package br.com.senai;
 
 import javax.swing.JOptionPane;
 
-public class Aula1 {
+public class Aula1 { //Teste com GitHub
 	
 	static String msg = "Bem vindo";
 	static String meuNome = "SENAI 2017";
