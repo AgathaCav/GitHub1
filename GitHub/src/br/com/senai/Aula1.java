@@ -12,7 +12,7 @@ public class Aula1 { //Teste com GitHub
 	}
 	
 	
-	static public void testeOnline(){
+	static public void testeOnline(){ //método de teste
 		System.out.print("aaaa");
 	}
 	
